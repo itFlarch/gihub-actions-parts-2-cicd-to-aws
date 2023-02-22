@@ -1,1 +1,1 @@
-# gihub-actions-parts-2-cicd-to-aws
+# GitHub Actions deploy Flask to AWS Elastik Beanstalk
